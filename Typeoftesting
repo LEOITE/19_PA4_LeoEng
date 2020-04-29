@@ -15,7 +15,8 @@ created by Leo
 
 
 
-updated by Ming Hwee
+
+
 What is system Testing?
 Exectuion of software in its final configuration, including integration of soft/hardware.
 System testing is conducted by a group of testers thats independant from the development team
@@ -26,4 +27,6 @@ Evaluate and validate the systems functionality if it meets the customer's requi
 Acceptance testing is conducted by customers and end-users.
 It is type of (blackbox/whitebox testing)
 Blackbox
+updated by Ming Hwee
+
 
