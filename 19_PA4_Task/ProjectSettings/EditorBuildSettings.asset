@@ -4,5 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< Updated upstream
   m_Scenes: []
+=======
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 608351e632ac41f41b5e7b7dd9fd58a2
+  - enabled: 1
+    path: Assets/Scenes/CubeScene.unity
+    guid: c89e26306b1405c4f92bddba1be849a5
+>>>>>>> Stashed changes
   m_configObjects: {}
